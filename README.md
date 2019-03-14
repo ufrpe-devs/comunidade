@@ -19,7 +19,7 @@ relevantes à sociedade.
 
 ## Como participar
 
-// TODO 
+É sempre difícil fazer algo pela primeira vez, especialmente quando se está contribuindo, mas se você está disposto a compartilhar sua visão conosco e quer saber como participar, [clique aqui](https://github.com/bsi-developers/comunidade/blob/master/CONTRIBUTING.md)
 
 ## Nossos canais
 
