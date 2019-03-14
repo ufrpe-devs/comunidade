@@ -30,7 +30,7 @@ onde url é a URL deste repositório. Consulte as etapas anteriores para obter a
 
 Por exemplo:
 ```
-git clone https://github.com/seu-usuario/first-contributions.git
+git clone https://github.com/bsi-developers/comunidade.git
 ```
 onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
 
@@ -92,8 +92,4 @@ Logo estarei mesclando ('mergeando') as suas mudanças no Branch principal (mast
 
 Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como contribuidor!
 
-Celebre sua contribuição e compartilhe com seus amigos e seguidores no "app web...".
-
-Você também pode se juntar à nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. "Junte-se à nossa equipe no Slack...".
-
-Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar...
+> *Imagens retiradas de https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md*
