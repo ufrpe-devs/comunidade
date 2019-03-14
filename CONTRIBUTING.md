@@ -24,7 +24,7 @@ Abra seu terminal e execute o seguinte comando do git:
 ```
 git clone url
 ```
-onde url é a URL deste repositório. Consulte as etapas anteriores para obter a URL.
+onde url é a URL deste repositório. 
 
 <img align="right" width="300" src="./src/imgs/copy-to-clipboard.png" alt="copiar URL" />
 
@@ -32,13 +32,13 @@ Por exemplo:
 ```
 git clone https://github.com/bsi-developers/comunidade.git
 ```
-onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o conteúdo do repositório first-contributions para o seu computador.
+Aqui você está copiando o conteúdo do repositório comunidade para o seu computador.
 
 ## Crie um Branch
 
 Ainda no git bash ou outro terminal de sua preferencia vá para o diretório do repositório no seu computador (caso você não esteja lá):
 ```
-cd first-contributions
+cd comunidade
 ```
 
 Agora crie um Branch usando o comando `git checkout`:
@@ -48,7 +48,7 @@ git checkout -b <add-seu-nome>
 
 Por exemplo:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-Thales-Gabriel
 ```
 Obs.: O nome do Branch não precisa ter a sigla "add", mas nesse caso é recomendável, porque a finalidade deste Branch é a de adicionar o seu nome a uma lista.
 
@@ -90,6 +90,6 @@ Logo estarei mesclando ('mergeando') as suas mudanças no Branch principal (mast
 
 ## Para onde ir a partir daqui?
 
-Parabéns! Você completou o fluxo de trabalho básico _fork -> clone -> edit -> PR_ que você encontrará frequentemente como contribuidor!
+Agora você está mais próximo de ser convidado para fazer parte de nossa organização. Continue contribuindo, buscando Issues abertas e participando de discussões. Seguindo esses passos você será convidado para fazer parte de nossa organização.
 
 > *Imagens retiradas de https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md*
