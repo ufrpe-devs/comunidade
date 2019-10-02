@@ -9,6 +9,7 @@ de Informação da Universidade Federal Rural de Pernambuco
  - [O que é](#o-que-é)
  - [Como participar](#como-participar)
  - [Nossos canais](#nossos-canais)
+ - [Repositórios](#Repos.md)
 
 ## O que é
 
@@ -19,7 +20,7 @@ relevantes à sociedade.
 
 ## Como participar
 
-É sempre difícil fazer algo pela primeira vez, especialmente quando se está contribuindo, mas se você está disposto a compartilhar sua visão conosco e quer saber como participar, [clique aqui](https://github.com/bsi-developers/comunidade/blob/como-participar/CONTRIBUTING.md) para ver como fazer isso.
+É sempre difícil fazer algo pela primeira vez, especialmente quando se está contribuindo, mas se você está disposto a compartilhar sua visão conosco e quer saber como participar, [clique aqui](CONTRIBUTING.md) para ver como fazer isso.
 
 ## Nossos canais
 
