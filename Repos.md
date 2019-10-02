@@ -2,7 +2,7 @@
 
 > Repositórios de projetos desenvolvidos por pessoas do nosso curso
 
-[Início](#README.md)
+[Início](README.md)
 
 #
 
