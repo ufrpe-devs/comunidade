@@ -4,4 +4,4 @@
 - [Gustavo Magalhães Pereira](https://github.com/gustavomagalhaes)
 - [André Luiz Ribeiro Arruda](https://github.com/andrelarruda)
 - [Caio Henrique de Souza Farias](https://github.com/caiohsfar)
-
+- [João Lucas de Carvalho Arruda](https://github.com/jlcarruda)
