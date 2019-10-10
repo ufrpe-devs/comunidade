@@ -10,6 +10,7 @@ de Informação da Universidade Federal Rural de Pernambuco
  - [Como participar](#como-participar)
  - [Nossos canais](#nossos-canais)
  - [Repositórios](Repos.md)
+ - [Contribuidores](Contributors.md)
 
 ## O que é
 
