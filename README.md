@@ -1,22 +1,23 @@
 # BSI Developers Group - Comunidade
 
 > Somos uma comunidade de desenvolvedores do curso de Sistemas
-de Informação da Universidade Federal Rural de Pernambuco
+> de Informação da Universidade Federal Rural de Pernambuco
 
 ![BDG Logo](https://i.imgur.com/0ADZRep.png)
 
 ## Sumário
- - [O que é](#o-que-é)
- - [Como participar](#como-participar)
- - [Nossos canais](#nossos-canais)
- - [Repositórios](Repos.md)
+
+- [O que é](#o-que-é)
+- [Como participar](#como-participar)
+- [Nossos canais](#nossos-canais)
+- [Repositórios](Repos.md)
 
 ## O que é
 
 A comunidade BDG é um espaço aberto focado na disseminação do
-conhecimento a cerca de desenvolvimento. Acreditamos que com 
+conhecimento a cerca de desenvolvimento. Acreditamos que com
 uma comunidade forte podemos construir mais soluções que sejam
-relevantes à sociedade. 
+relevantes à sociedade.
 
 ## Como participar
 
@@ -24,4 +25,4 @@ relevantes à sociedade.
 
 ## Nossos canais
 
-// TODO
+- <a href="https://discord.gg/NYsFQ7P">Discord</a>
