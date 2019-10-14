@@ -8,3 +8,4 @@
 - [Caio Henrique de Souza Farias](https://github.com/caiohsfar)
 - [João Lucas de Carvalho Arruda](https://github.com/jlcarruda)
 - [Ítalo Sousa de Andrade](https://github.com/ItaloSa)
+- [Daivid Vasconcelos Leal](https://github.com/daividvleal)
