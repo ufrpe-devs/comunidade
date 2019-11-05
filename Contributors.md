@@ -13,3 +13,4 @@
 - [Daivid Vasconcelos Leal](https://github.com/daividvleal)
 - [Victor Leuthier dos Santos](https://github.com/leuthier)
 - [Demis Moacir Gomes](https://github.com/demisgomes)
+- [Kimbelly Emanuelle Avelino Ferraz](https://github.com/kimbellyf)
