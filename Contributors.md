@@ -15,3 +15,4 @@
 - [Demis Moacir Gomes](https://github.com/demisgomes)
 - [Kimbelly Emanuelle Avelino Ferraz](https://github.com/kimbellyf)
 - [Gustavo de Mello Brandão](https://github.com/Brand00wn)
+- [Jean Lopes](https://github.com/JeanLLopes)
