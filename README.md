@@ -3,7 +3,7 @@
 > Somos uma comunidade de desenvolvedores do curso de Sistemas
 de Informação da Universidade Federal Rural de Pernambuco
 
-![BDG Logo](https://i.imgur.com/0ADZRep.png)
+<div align="center"><img src="./src/imgs/ufrpe-devs.svg"></img></div>
 
 ## Sumário
  - [O que é](#o-que-é)
