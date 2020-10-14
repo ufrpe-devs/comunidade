@@ -15,6 +15,7 @@
 - [Demis Moacir Gomes](https://github.com/demisgomes)
 - [Kimbelly Emanuelle Avelino Ferraz](https://github.com/kimbellyf)
 - [Gustavo de Mello Brandão](https://github.com/Brand00wn)
+- [Jean Lopes](https://github.com/JeanLLopes)
 - [Luís Tovar](https://gitbub.com/LuisTovar0)
 - [Beatriz Carvalho Falcão](https://github.com/BiaHawk)
 - [Ricardo Dantas de Oliveira](https://github.com/licensed)
