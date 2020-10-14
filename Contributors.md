@@ -14,6 +14,7 @@
 - [Victor Leuthier dos Santos](https://github.com/leuthier)
 - [Demis Moacir Gomes](https://github.com/demisgomes)
 - [Kimbelly Emanuelle Avelino Ferraz](https://github.com/kimbellyf)
+- [IgorOliveira42](https://github.com/IgorOliveira42)
 - [Gustavo de Mello Brandão](https://github.com/Brand00wn)
 - [Jean Lopes](https://github.com/JeanLLopes)
 - [Luís Tovar](https://gitbub.com/LuisTovar0)
