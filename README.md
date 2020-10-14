@@ -1,7 +1,6 @@
-# BSI Developers Group - Comunidade
+# UFRPE Developers Group - Comunidade
 
-> Somos uma comunidade de desenvolvedores do curso de Sistemas
-de Informação da Universidade Federal Rural de Pernambuco
+> Somos uma comunidade de desenvolvedores da Universidade Federal Rural de Pernambuco
 
 ![BDG Logo](https://i.imgur.com/0ADZRep.png)
 
@@ -14,7 +13,7 @@ de Informação da Universidade Federal Rural de Pernambuco
 
 ## O que é
 
-A comunidade BDG é um espaço aberto focado na disseminação do
+A comunidade UFRPE DEVs é um espaço aberto focado na disseminação do
 conhecimento a cerca de desenvolvimento. Acreditamos que com 
 uma comunidade forte podemos construir mais soluções que sejam
 relevantes à sociedade. 
