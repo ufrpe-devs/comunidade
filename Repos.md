@@ -18,6 +18,6 @@
 
 #
 
-### [Adm-de-cartão](https://github.com/projetosdebd-2019-1/CancerData)
+### [Adm-de-cartão](https://github.com/BiaHawk/Administradora-de-cartao)
 
 - Projeto criado para a cadeira de algoritmos do curso de BSI da UFRPE. Constiste em utilizar uma estrutura de dados bastante conhecida, a árvore rubro-negra, para criar uma administradora de cartão, com as operações de: cadastrar pessoas e lojas; ter um limite max para o cartão de uso pessoal; apenas os estabelecimentos cadastrados aceitam o cartão.
