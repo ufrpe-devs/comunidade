@@ -20,3 +20,4 @@
 - [Luís Tovar](https://gitbub.com/LuisTovar0)
 - [Beatriz Carvalho Falcão](https://github.com/BiaHawk)
 - [Ricardo Dantas de Oliveira](https://github.com/licensed)
+- [José Rafael de Santana](https://github.com/jrafaelsantana)
