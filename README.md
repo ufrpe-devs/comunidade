@@ -16,7 +16,7 @@
 
 ## O que é
 
-A comunidade UFRPE DEVs é um espaço aberto focado na disseminação do
+A comunidade UFRPE Devs é um espaço aberto focado na disseminação do
 conhecimento a cerca de desenvolvimento. Acreditamos que com 
 uma comunidade forte podemos construir mais soluções que sejam
 relevantes à sociedade. 
