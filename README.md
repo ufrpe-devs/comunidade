@@ -3,7 +3,7 @@
 
 # UFRPE Developers Group - Comunidade
 
-> Somos uma comunidade de desenvolvedores da Universidade Federal Rural de Pernambuco
+ Somos uma comunidade de desenvolvedores da Universidade Federal Rural de Pernambuco
 </td></tr></table>
 
 
