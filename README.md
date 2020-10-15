@@ -2,7 +2,7 @@
 
 > Somos uma comunidade de desenvolvedores da Universidade Federal Rural de Pernambuco
 
-![BDG Logo](https://i.imgur.com/0ADZRep.png)
+![picture](src/imgs/ufrpe-devs.png)
 
 ## Sumário
  - [O que é](#o-que-é)
