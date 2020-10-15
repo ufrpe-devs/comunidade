@@ -1,8 +1,15 @@
-# UFRPE Developers Group - Comunidade
+
 
 > Somos uma comunidade de desenvolvedores da Universidade Federal Rural de Pernambuco
 
-![picture](src/imgs/ufrpe-devs.png)
+<table align="center"><tr><td align="center" width="9999">
+<img src="src/imgs/ufrpe-devs.png" align="center" width="150" alt="Project icon">
+
+# UFRPE Developers Group - Comunidade
+
+> Somos uma comunidade de desenvolvedores da Universidade Federal Rural de Pernambuco
+</td></tr></table>
+
 
 ## Sumário
  - [O que é](#o-que-é)
