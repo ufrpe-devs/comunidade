@@ -1,7 +1,3 @@
-
-
-> Somos uma comunidade de desenvolvedores da Universidade Federal Rural de Pernambuco
-
 <table align="center"><tr><td align="center" width="9999">
 <img src="src/imgs/ufrpe-devs.png" align="center" width="150" alt="Project icon">
 
