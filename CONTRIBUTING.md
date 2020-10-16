@@ -1,4 +1,4 @@
-# BSI Developers Group - Toda contribuição é válida :)
+# UFRPE Developers Group - Toda contribuição é válida :)
 
 É sempre difícil fazer algo pela primeira vez, especialmente quando se está contribuindo, claro que é normal cometermos erros mas se você está aqui está disposto
 a aprender e ceder conhecimento. Queremos trabalhar juntos para que possamos criar uma grande comunidade.
