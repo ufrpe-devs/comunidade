@@ -22,3 +22,4 @@
 - [Ricardo Dantas de Oliveira](https://github.com/licensed)
 - [José Rafael de Santana](https://github.com/jrafaelsantana)
 - [Mariana Santos Alves](https://github.com/Mariana4Alves)
+- [Adriel Albuquerque Cavalcanti](https://github.com/adrcav)
