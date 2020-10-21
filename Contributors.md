@@ -1,6 +1,7 @@
 # Contribuidores
 [Início](README.md)
 
+- [Alan Nunes da Silva](https://github.com/AlanNunes)
 - [Matheus Pitancó de Lima Uehara](https://github.com/matheusuehara)
 - [Mateus Marinho de Carvalho Santos](https://github.com/mateusmarinho1999)
 - [Jéssica Alves de Souza](https://github.com/nekojess1)
