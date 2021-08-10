@@ -39,3 +39,9 @@
 ### [projeto-banana](https://github.com/SteffanoP/projeto-banana)
 
 - **projeto-banana** é um jogo baseado na biblioteca raylib.h que se trata de uma releitura de Super Mario Bros., apresentamos a jornada de um herói pela República das Bananas, a qual está sendo aterrorizada pelo Rei Bananinha e sua família.
+
+#
+
+### [Sistema de Gerenciamento de Empréstimo Pessoal Alternativo](https://github.com/SteffanoP/projeto-pacovan)
+
+- Inspirado no Sistema de Reputação do SERASA e nos sistemas de empréstimos atuais, com foco no gerenciamento de amortização de empréstimos e renegociação compulsória de dívidas com juros exorbitantes. O Sistema será capaz de: registrar o empréstimo sem análise de riscos, ver a quantidade de parcelas restantes para quitação do ágio, amortização por Bens especiais Não Solicitados (B.E.N.S.) e taxas de juros variáveis para cada usuário.
