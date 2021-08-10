@@ -25,3 +25,4 @@
 - [Mariana Santos Alves](https://github.com/Mariana4Alves)
 - [Adriel Albuquerque Cavalcanti](https://github.com/adrcav)
 - [Fábio Alves de Freitas](https://github.com/fabioafreitas)
+- [Steffano Xavier Pereira](https://github.com/SteffanoP)
