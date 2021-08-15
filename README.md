@@ -1,30 +1,21 @@
-<table align="center"><tr><td align="center" width="9999">
-<img src="src/imgs/ufrpe-devs.png" align="center" width="150" alt="Project icon">
+<div align="center">
+<img src="media/ufrpe-devs-logo.svg" align="center" width="150" alt="Project icon">
+</div>
 
-# UFRPE Developers Group - Comunidade
+# UFRPE Devs - Comunidade
+[![UFRPE Devs badge](./media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
+[![Ufrpe Devs Discord Server](https://img.shields.io/discord/678334713919832100?logo=discord)](https://discord.gg/xeEaKKG)
 
- Somos uma comunidade de desenvolvedores da Universidade Federal Rural de Pernambuco
-</td></tr></table>
 
+> Somos uma comunidade de pessoas desenvolvedoras da Universidade Federal Rural de Pernambuco
 
-## Sumário
- - [O que é](#o-que-é)
- - [Como participar](#como-participar)
- - [Nossos canais](#nossos-canais)
- - [Repositórios](Repos.md)
- - [Contribuidores](Contributors.md)
+🗄️ [Repositórios](Repos.md) - 👥 [Contribuidores](Contributors.md)
 
-## O que é
+## Quem somos?
 
 A comunidade UFRPE Devs é um espaço aberto focado na disseminação do
-conhecimento a cerca de desenvolvimento. Acreditamos que com 
-uma comunidade forte podemos construir mais soluções que sejam
-relevantes à sociedade. 
+conhecimento a cerca de desenvolvimento dentro do ambiente acadêmico. Acreditamos que como comunidade, podemos ser um ambiente que proporciona troca de conhecimento e permita as pessoas a criar novas conexões.
 
-## Como participar
+## Como participar?
 
-É sempre difícil fazer algo pela primeira vez, especialmente quando se está contribuindo, mas se você está disposto a compartilhar sua visão conosco e quer saber como participar, [clique aqui](CONTRIBUTING.md) para ver como fazer isso.
-
-## Nossos canais
-
-// TODO
+Quer contribuir com nossa comunidade? Leia nosso [Guia de Contribuição](CONTRIBUTING.md) e veja como fazer isso.
