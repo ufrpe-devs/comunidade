@@ -14,7 +14,7 @@
 ## Quem somos?
 
 A comunidade UFRPE Devs é um espaço aberto focado na disseminação do
-conhecimento a cerca de desenvolvimento dentro do ambiente acadêmico. Acreditamos que como comunidade, podemos ser um ambiente que proporciona troca de conhecimento e permita as pessoas a criar novas conexões.
+conhecimento acerca de desenvolvimento dentro do ambiente acadêmico. Acreditamos que como comunidade, podemos ser um ambiente que proporciona troca de conhecimento e permita as pessoas a criar novas conexões.
 
 ## Como participar?
 
