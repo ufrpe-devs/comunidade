@@ -1,6 +1,6 @@
 # Repositórios
 
-> Repositórios de projetos desenvolvidos por pessoas do nosso curso
+> Repositórios de projetos desenvolvidos por pessoas da nossa comunidade
 
 [Início](README.md)
 
