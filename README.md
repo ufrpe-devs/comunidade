@@ -11,6 +11,10 @@
 
 🗄️ [Repositórios](https://github.com/ufrpe-devs/comunidade/blob/main/Repos.md) - 👥 [Contribuidores](https://github.com/ufrpe-devs/comunidade/blob/main/Contributors.md)
 
+## Código de conduta
+
+Por favor, leia atentamente nosso [Código de conduta](CODE_OF_CONDUCT.md) para mantermos nosso ambiente harmonioso.
+
 ## Quem somos?
 
 A comunidade UFRPE Devs é um espaço aberto focado na disseminação do
