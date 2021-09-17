@@ -32,7 +32,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Pushes Readme.md file
+    - name: Pushes media folder
       uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
       env:
         API_TOKEN_GITHUB: ${{ secrets.UPDATE_ORG_README_TOKEN }}
