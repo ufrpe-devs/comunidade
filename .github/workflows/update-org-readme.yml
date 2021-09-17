@@ -6,9 +6,10 @@ on:
       - main
     paths:
       - 'README.md'
+      - 'media/**'
 
 jobs:
-  update-org-readme:
+  update-org-readme-md:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -24,3 +25,21 @@ jobs:
         destination_folder: 'profile'
         user_email: 'ufrpedevs@gmail.com'
         user_name: 'ufrpedevs'
+        
+  update-org-readme-media:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes Readme.md file
+      uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.UPDATE_ORG_README_TOKEN }}
+      with:
+        source_file: 'media'
+        destination_repo: 'steffanop/repo-teste'
+        destination_folder: 'profile'
+        user_email: 'ufrpedevs@gmail.com'
+        user_name: 'ufrpedevs'
+    
