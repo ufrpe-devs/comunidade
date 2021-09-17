@@ -21,7 +21,7 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.UPDATE_ORG_README_TOKEN }}
       with:
         source_file: 'README.md'
-        destination_repo: 'steffanop/repo-teste'
+        destination_repo: 'ufrpe-devs/.github'
         destination_folder: 'profile'
         user_email: 'ufrpedevs@gmail.com'
         user_name: 'ufrpedevs'
@@ -38,7 +38,7 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.UPDATE_ORG_README_TOKEN }}
       with:
         source_file: 'media'
-        destination_repo: 'steffanop/repo-teste'
+        destination_repo: 'ufrpe-devs/.github'
         destination_folder: 'profile'
         user_email: 'ufrpedevs@gmail.com'
         user_name: 'ufrpedevs'
