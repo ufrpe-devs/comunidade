@@ -19,7 +19,7 @@ jobs:
     - name: Pushes Readme.md file
       uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
       env:
-        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        API_TOKEN_GITHUB: ${{ secrets.UPDATE_ORG_README_TOKEN }}
       with:
         source_file: 'README.md'
         destination_repo: 'steffanop/repo-teste'
