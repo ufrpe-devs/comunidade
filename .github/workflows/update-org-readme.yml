@@ -26,4 +26,3 @@ jobs:
         destination_folder: 'profile'
         user_email: 'steffanoxpereira@gmail.com'
         user_name: 'SteffanoP'
-        commit_message: 'deploy: $GITHUB_SHA'
