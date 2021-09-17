@@ -7,7 +7,7 @@
 [![Ufrpe Devs Discord Server](https://img.shields.io/discord/678334713919832100?logo=discord)](https://discord.gg/xeEaKKG)
 
 
-> Somos uma comunidade de pessoas desenvolvedoras da Universidade Federal Rural de Pernambuco
+> Somos uma comunidade de pessoas desenvolvedoras da Universidade Federal Rural de Pernambuco (UFRPE)
 
 🗄️ [Repositórios](Repos.md) - 👥 [Contribuidores](Contributors.md)
 
