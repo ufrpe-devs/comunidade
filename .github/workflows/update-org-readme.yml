@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Pushes Readme.md file
-      uses: dmnemec/copy_file_to_another_repo_action@v1.1.x
+      uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
