@@ -6,8 +6,6 @@ on:
       - main
     paths:
       - 'README.md'
-  
-  workflow_dispatch:
 
 jobs:
   update-org-readme:
