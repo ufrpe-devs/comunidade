@@ -1,0 +1,27 @@
+name: Update Org Readme.md
+
+on:
+  push:
+    branches: 
+      - main
+    paths:
+      - 'README.md'
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes Readme.md file
+      uses: dmnemec/copy_file_to_another_repo_action@v1.1.x
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'README.md'
+        destination_repo: 'dmnemec/release-test'
+        destination_folder: 'profile'
+        user_email: 'steffanoxpereira@gmail.com'
+        user_name: 'SteffanoP'
+        commit_message: 'deploy: $GITHUB_SHA'
