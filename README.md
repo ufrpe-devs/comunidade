@@ -18,4 +18,4 @@ conhecimento acerca de desenvolvimento dentro do ambiente acadêmico. Acreditamo
 
 ## Como participar?
 
-Quer contribuir com nossa comunidade? Leia nosso [Guia de Contribuição](CONTRIBUTING.md) e veja como fazer isso
+Quer contribuir com nossa comunidade? Leia nosso [Guia de Contribuição](CONTRIBUTING.md) e veja como fazer isso.
