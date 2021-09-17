@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  copy-file:
+  update-org-readme:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
