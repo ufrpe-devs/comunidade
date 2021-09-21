@@ -25,12 +25,6 @@ jobs:
         destination_folder: 'profile'
         user_email: 'ufrpedevs@gmail.com'
         user_name: 'ufrpedevs'
-        
-  update-org-readme-media:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
 
     - name: Pushes media folder
       uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
@@ -42,4 +36,3 @@ jobs:
         destination_folder: 'profile'
         user_email: 'ufrpedevs@gmail.com'
         user_name: 'ufrpedevs'
-    
