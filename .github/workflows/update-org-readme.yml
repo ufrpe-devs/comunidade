@@ -35,6 +35,5 @@ jobs:
       with:
         source_file: 'media'
         destination_repo: 'ufrpe-devs/.github'
-        destination_folder: 'profile'
         user_email: 'ufrpedevs@gmail.com'
         user_name: 'ufrpedevs'
