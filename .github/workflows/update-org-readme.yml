@@ -7,6 +7,8 @@ on:
     paths:
       - 'README.md'
       - 'media/**'
+      
+  workflow_dispatch:
 
 jobs:
   update-org-readme-md:
