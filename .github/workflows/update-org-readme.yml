@@ -1,0 +1,39 @@
+name: Update Org Readme.md
+
+on:
+  push:
+    branches: 
+      - main
+    paths:
+      - 'README.md'
+      - 'media/**'
+      
+  workflow_dispatch:
+
+jobs:
+  update-org-readme-md:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes Readme.md file
+      uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.UPDATE_ORG_README_TOKEN }}
+      with:
+        source_file: 'README.md'
+        destination_repo: 'ufrpe-devs/.github'
+        destination_folder: 'profile'
+        user_email: 'ufrpedevs@gmail.com'
+        user_name: 'ufrpedevs'
+
+    - name: Pushes media folder
+      uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.UPDATE_ORG_README_TOKEN }}
+      with:
+        source_file: 'media'
+        destination_repo: 'ufrpe-devs/.github'
+        user_email: 'ufrpedevs@gmail.com'
+        user_name: 'ufrpedevs'
