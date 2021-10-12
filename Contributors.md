@@ -26,3 +26,5 @@
 - [Adriel Albuquerque Cavalcanti](https://github.com/adrcav)
 - [Fábio Alves de Freitas](https://github.com/fabioafreitas)
 - [Steffano Xavier Pereira](https://github.com/SteffanoP)
+- [Thalles Augusto](https://github.com/ThesllaDev)
+- 
