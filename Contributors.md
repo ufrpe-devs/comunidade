@@ -28,3 +28,4 @@
 - [Steffano Xavier Pereira](https://github.com/SteffanoP)
 - [Thalles Augusto](https://github.com/ThesllaDev)
 - [Rafael Tomás](https://github.com/RafaelTomas)
+- [Aisa Luana](https://ithub.com/aisaluana)
