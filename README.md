@@ -20,6 +20,22 @@ conhecimento acerca de desenvolvimento dentro do ambiente acadêmico. Acreditamo
 
 Quer contribuir com nossa comunidade? Leia nosso [Guia de Contribuição](https://github.com/ufrpe-devs/comunidade/blob/main/CONTRIBUTING.md) e veja como fazer isso.
 
+## UFRPE Devs badge
+
+Essa é a nossa badge.
+
+[![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
+
+Adicione a badge ao cabeçalho do `readme.md` do seu repositório.
+ 
+Como usar:
+```md
+[![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
+```
+
+*O badge não pode ser modificado de forma alguma.*
+
+
 ## Nosso Código de Conduta
 
 Por favor, leia atentamente nosso [Código de conduta](https://github.com/ufrpe-devs/comunidade/blob/main/CODE_OF_CONDUCT.md) para mantermos nosso ambiente harmonioso.
